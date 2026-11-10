@@ -1,0 +1,57 @@
+{
+  "product_name": "爆米花（膨化食品）",
+  "ingredients": "玉米、白砂糖、爆米花专用油（精炼植物油）、食品添加剂（食用香精、β-胡萝卜素、特丁基对苯二酚）",
+  "net_content": "90克",
+  "producer": "广州市增城沁园春食品厂（广州市增城区永宁街长岗村）",
+  "sc_number": "SC11244018301589",
+  "standard_code": "GB/T22699",
+  "date_label": "生产日期见包装，保质期 6 个月",
+  "storage_condition": "阴凉干燥处，避免阳光直射",
+  "grade": "",
+  "claims": [],
+  "allergen_declared": false,
+  "nutrition": {
+    "has_table": true,
+    "items": [
+      "能量",
+      "蛋白质",
+      "脂肪",
+      "反式脂肪酸",
+      "碳水化合物",
+      "钠"
+    ],
+    "slogan": false,
+    "exempt_categories": [],
+    "collected": true,
+    "values": {
+      "能量": "2427kJ/29%",
+      "蛋白质": "3.2g/5%",
+      "脂肪": "37.9g/63%",
+      "反式脂肪酸": "0g",
+      "碳水化合物": "57.3g/19%",
+      "钠": "44mg/2%"
+    }
+  },
+  "production_date": "",
+  "has_qr": false,
+  "gb_category": "",
+  "_meta": {
+    "grade": "待定",
+    "source_type": "实物拍摄（超市）",
+    "sources": [
+      {
+        "name": "本人超市实拍",
+        "url": "",
+        "seen": "2026-11-04"
+      }
+    ],
+    "images": [
+      "044_爆米花POPCORN_背面.jpg",
+      "045_爆米花POPCORN_背面.jpg"
+    ],
+    "verify": "已核对（SC编号+营养表位置）",
+    "collected_by": "AI 读图",
+    "collected_at": "2026-11-04 09:45",
+    "note": "产品类别：膨化食品（油炸型）。营养表在另一张背面照（045）上：能量2427kJ/29%、蛋白质3.2g/5%、脂肪37.9g/63%、反式脂肪酸0g、碳水57.3g/19%、钠44mg/2%——缺饱和脂肪、糖两项；表下提示语为「开封后请尽快食用」，非「盐油糖」提示语。SC 编号经本人核对为 SC11244018301589（14 位合规）。此前据单张照片误判「无营养表」，已更正。"
+  }
+}

@@ -1,0 +1,18 @@
+# 构建产物
+_build/
+检测报告/
+交付包/
+*.zip
+
+# 私有数据（不发布）
+samples_real/
+rules.json
+make_license.py
+
+# 系统/编辑器
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
